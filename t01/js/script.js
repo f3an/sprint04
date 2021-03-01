@@ -1,0 +1,1 @@
+document.getElementById("characters").style.height = "200px;";
