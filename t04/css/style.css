@@ -1,0 +1,45 @@
+#container{
+    text-align: center;
+    border: 1px solid black;
+    border-radius: 20px;
+    background-color: lightblue;
+    width: 100%;
+}
+
+#dayList{
+   
+    background-color: white;
+    border-bottom-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+}
+
+img{
+    width: 100px;
+}
+
+.temperature {
+    font-family: 'Lato', serif;
+    text-align: center;
+    font-size: 2em;
+    margin: 1px;
+}
+
+.day {
+    font-family: 'Lato', serif;
+    background-color: #4095b5;
+    text-align: center;
+    font-size: 1.5em;
+    margin: auto;
+    padding-top: 4px;
+    color: white;
+}
+
+.dailyData {
+    margin: 5px;
+    position: relative;
+    display: inline-block;
+}
+
+.dailyData:hover {
+    box-shadow: 0 5px 10px 0 slategrey;
+}

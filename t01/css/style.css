@@ -22,15 +22,15 @@ li {
 }
 
 .good {
-    border: 3px solid#59a440;
+    border: 3px solid #59a440;
 }
 
 .evil {
-    border: 3px solid#ba2d29;
+    border: 3px solid #ba2d29;
 }
 
 .unknown {
-    border: 3px solid#764cae;
+    border: 3px solid #764cae;
 }
 
 .elem {
@@ -69,4 +69,5 @@ li {
     background-color: white;
     border-radius: 0;
     top: 9px;
+    transform: rotate(-225deg);
 }
